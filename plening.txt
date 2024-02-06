@@ -6,3 +6,4 @@ tambahkan maps
 tambahkan konten
 tambahkan karya
 tambahkan geleri
+tambahkan logo 
