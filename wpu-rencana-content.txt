@@ -3,7 +3,11 @@ RENCANA KONTEN tri
 -Javascript
  *ES6
  *Fremewrork Javascript
+  ^ vue
+  ^React
 -Stuktur Data Dasar
 -PHP Fremworks
+  ^laravel
 -interview
 -Vlogs
+-python
