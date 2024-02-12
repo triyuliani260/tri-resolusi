@@ -4,6 +4,7 @@ RENCANA KONTEN tri
  *ES6
  *Fremewrork Javascript
   ^ vue
+  ^React
 -Stuktur Data Dasar
 -PHP Fremworks
   ^laravel
