@@ -1,0 +1,8 @@
+RENCANA KONTEN tri
+
+-Javascript
+ *ES6
+ *Fremewrork Javascript
+-PHP Fremworks
+-interview
+-Vlogs
